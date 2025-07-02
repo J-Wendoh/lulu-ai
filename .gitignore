@@ -181,12 +181,14 @@ bld/
 # User uploaded content (keep structure but ignore content)
 Photos/*
 !Photos/.gitkeep
+!Photos/lulu-ai-character.jpg
 Calendar/*
 !Calendar/.gitkeep
 Articles/*
 !Articles/.gitkeep
 Character Files/*
 !Character Files/.gitkeep
+!Character Files/lulu-ai-persona.json
 
 # Temporary files
 tmp/
